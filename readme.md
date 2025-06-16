@@ -67,6 +67,7 @@ streamlit run main_ui.py
 
 ## 🔄 Architecture
 
+![System Architecture](./architecture.png)
 
 
 - **Frontend**: Streamlit app with inputs, outputs, buttons
