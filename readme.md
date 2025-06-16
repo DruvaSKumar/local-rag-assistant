@@ -96,13 +96,6 @@ localsmart-ai-assistant/
 ├── requirements.txt        # Dependencies
 └── README.md
 ```
-
----
-
-## 🌟 Credits
-
-Built by **Druva S Kumar** as part of a LangChain + RAG internship assessment.
-
 ---
 
 ## 📤 Deployment (optional)
